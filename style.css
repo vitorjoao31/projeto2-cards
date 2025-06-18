@@ -12,7 +12,7 @@ body{background: url(fundo1.jpeg);
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(0, 0, 0);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
@@ -21,7 +21,7 @@ body{background: url(fundo1.jpeg);
 .cartao__conteudo{
     text-align: center;
     height: 100%;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(0, 0, 0);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
